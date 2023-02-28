@@ -7,4 +7,4 @@ def suc(N):
   print(ss)
   print(s)
   
-  suc(int(input()))
+suc(int(input()))
